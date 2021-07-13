@@ -8,8 +8,7 @@ import Hello from './components/Hello';
 
 ReactDOM.render(
   <React.StrictMode>    
-    <Hello text="Olá Lets" />
-    <App />
+    <Formulario />
   </React.StrictMode>,
   document.getElementById('root')
 );

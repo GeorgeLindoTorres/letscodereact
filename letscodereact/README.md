@@ -1,3 +1,5 @@
+# Exercícios simples do curso de Web & React da Let's Code
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
